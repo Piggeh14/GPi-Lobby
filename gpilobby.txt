@@ -1,6 +1,6 @@
 "Gamemode"
 {
-	"base"		"sandbox"
+	"base"		"base"
 	"title"		"GPi Lobby"
 	"menusystem"	"1"
 
