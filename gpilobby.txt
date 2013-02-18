@@ -1,0 +1,10 @@
+"Gamemode"
+{
+	"base"		"sandbox"
+	"title"		"GPi Lobby"
+	"menusystem"	"1"
+
+	"settings"
+	{
+	}
+}
